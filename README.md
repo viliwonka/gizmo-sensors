@@ -6,8 +6,6 @@ Those sensors use Unity Physics API and they provide Gizmos which work inside Ed
 
 Useful for anyone to see in 'real-time' how Raycasting works in Unity.
 
-This code was open-sourced from our project [Floatlands](floatlands.net). Gotta give back something to community, you know?
-
 ![alt-text](https://github.com/viliwonka/gizmo-sensors/blob/master/AllTypesOrto.PNG "Types from left to right")
 
 ### Types of sensors ###
