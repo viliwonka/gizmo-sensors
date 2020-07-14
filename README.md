@@ -8,7 +8,7 @@ Useful for anyone to see in 'real-time' how Raycasting works in Unity.
 
 This code was open-sourced from our project [Floatlands](floatlands.net). Gotta give back something to community, you know?
 
-![Alt text](https://bytebucket.org/6pills/gizmo-sensors/raw/d7e658ed44f89afc2c3b9814eccfa9c09ec469c3/AllTypesOrto.PNG "Types from left to right")
+![alt-text](https://github.com/viliwonka/gizmo-sensors/blob/master/AllTypesOrto.PNG "Types from left to right")
 
 ### Types of sensors ###
 
@@ -57,9 +57,8 @@ In code
 * Sensors ignore colliders marked as "Triggers",
 * Many Sensors will make your Scene view (inside Editor) lag. Rename "OnDrawGizmos()" to "OnDrawGizmosSelected()" - it will draw gizmos only on currently selected prefab.
 
-
 ### In action ###
-![Alt text](https://bytebucket.org/6pills/gizmo-sensors/raw/12918c644eaf8ca81f309f3c0c34e037175dbf0d/inAction.gif "Types from left to right")
+![alt-text](https://bytebucket.org/6pills/gizmo-sensors/raw/12918c644eaf8ca81f309f3c0c34e037175dbf0d/inAction.gif "Types from left to right")
 
 ### Licence ###
 MIT licence. Full details in licence.txt file.
