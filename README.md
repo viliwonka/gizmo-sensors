@@ -58,7 +58,7 @@ In code
 * Many Sensors will make your Scene view (inside Editor) lag. Rename "OnDrawGizmos()" to "OnDrawGizmosSelected()" - it will draw gizmos only on currently selected prefab.
 
 ### In action ###
-![alt-text](https://bytebucket.org/6pills/gizmo-sensors/raw/12918c644eaf8ca81f309f3c0c34e037175dbf0d/inAction.gif "Types from left to right")
+![alt-text](https://github.com/viliwonka/gizmo-sensors/blob/master/inAction.gif "Types from left to right")
 
 ### Licence ###
 MIT licence. Full details in licence.txt file.
